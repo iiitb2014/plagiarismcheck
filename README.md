@@ -10,5 +10,5 @@ The program finds out the percentage of plagiarism between two files and highlig
 ## Team members
 * Dharma Vandanapu (IMT2014062)
 * [Rajula Vineet Reddy (IMT2014045)](https://github.com/rajula96reddy)
-* [Gaurav Koley (IMT2014019)](github.com/arkokoley)
+* [Gaurav Koley (IMT2014019)](https://github.com/arkokoley)
 * V.Dakshayani (IMT2014061)
